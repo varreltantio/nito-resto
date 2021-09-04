@@ -1,0 +1,32 @@
+[
+   {
+      "username": "admin1",
+      "password": "adminitoresto123",
+      "role": "admin"
+   },
+   {
+      "username": "meja1",
+      "password": "nitoresto123",
+      "role": "user"
+   },
+   {
+      "username": "meja2",
+      "password": "nitoresto123",
+      "role": "user"
+   },
+   {
+      "username": "meja3",
+      "password": "nitoresto123",
+      "role": "user"
+   },
+   {
+      "username": "meja4",
+      "password": "nitoresto123",
+      "role": "user"
+   },
+   {
+      "username": "meja5",
+      "password": "nitoresto123",
+      "role": "user"
+   }
+]

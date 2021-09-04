@@ -1,0 +1,37 @@
+[
+   {
+      "kategori": "makanan",
+      "nama": "ayam goreng",
+      "harga": "8000"
+   },
+   {
+      "kategori": "makanan",
+      "nama": "gurami bakar",
+      "harga": "20000"
+   },
+   {
+      "kategori": "minuman",
+      "nama": "es buah",
+      "harga": "3000"
+   },
+   {
+      "nama": "es teh",
+      "kategori": "minuman",
+      "harga": "6000"
+   },
+   {
+      "kategori": "minuman",
+      "nama": "es campur",
+      "harga": "4000"
+   },
+   {
+      "kategori": "makanan",
+      "nama": "Nasi Padang",
+      "harga": "10000"
+   },
+   {
+      "nama": "sate",
+      "kategori": "makanan",
+      "harga": "9000"
+   }
+]

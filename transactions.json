@@ -1,0 +1,74 @@
+[
+       {
+              "harga": "8000",
+              "jumlah": "3",
+              "menu": "ayam goreng",
+              "nama": "Vito",
+              "nomor": "meja3",
+              "tanggal": "02/01/2021",
+              "total harga": "24000"
+       },
+       {
+              "harga": "20000",
+              "jumlah": "1",
+              "menu": "gurami bakar",
+              "nama": "Kris",
+              "nomor": "meja4",
+              "tanggal": "03/01/2021",
+              "total harga": "20000"
+       },
+       {
+              "harga": "3000",
+              "jumlah": "5",
+              "menu": "es buah",
+              "nama": "Bayu",
+              "nomor": "meja1",
+              "tanggal": "03/01/2021",
+              "total harga": "15000"
+       },
+       {
+              "harga": "10000",
+              "jumlah": "2",
+              "menu": "Nasi Padang",
+              "nama": "Varrel",
+              "nomor": "meja1",
+              "tanggal": "08/01/2021",
+              "total harga": "20000"
+       },
+       {
+              "harga": "8000",
+              "jumlah": "2",
+              "menu": "ayam goreng",
+              "nama": "David",
+              "nomor": "meja1",
+              "tanggal": "08/01/2021",
+              "total harga": "16000"
+       },
+       {
+              "harga": "8000",
+              "jumlah": "2",
+              "menu": "ayam goreng",
+              "nama": "Suep",
+              "nomor": "meja1",
+              "tanggal": "08/01/2021",
+              "total harga": "16000"
+       },
+       {
+              "harga": "8000",
+              "jumlah": "2",
+              "menu": "ayam goreng",
+              "nama": "Bambang",
+              "nomor": "meja1",
+              "tanggal": "08/01/2021",
+              "total harga": "16000"
+       },
+       {
+              "harga": "8000",
+              "jumlah": "2",
+              "menu": "ayam goreng",
+              "nama": "Pao pao",
+              "nomor": "meja1",
+              "tanggal": "08/01/2021",
+              "total harga": "16000"
+       }
+]
